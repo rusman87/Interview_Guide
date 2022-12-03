@@ -194,7 +194,7 @@ metadata:
 spec:
   podSelector: {}
   policyTypes:
-  - Ingress
+  - Egress
   egress:
   - from:
     - ipBlock:
